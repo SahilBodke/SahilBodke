@@ -39,11 +39,11 @@ Feel free to reach out to me:
 
 ### 1. **Cloud Infrastructure for Single-Cell RNA Sequencing**
    - Built cloud-based infrastructure for processing large datasets from single-cell RNA sequencing experiments.  
-   - Technologies: AWS (EC2, S3, Lambda, EFS, ECS, ECR), Python, Docker.
+   - **Technologies**: AWS (EC2, S3, Lambda, EFS, ECS, ECR), Python, Docker.
 
 ### 2. **[Food Delivery App](https://github.com/SahilBodke/food-delivery-app.git)**
    - Designed a secure, interactive food ordering web application with MERN stack.  
-   - Technologies: Python, Flask, TensorFlow, React.
+   - **Technologies**: Python, Flask, TensorFlow, React.
 
 ### 3. **Recognition Using Deep Networks**
    - Trained deep neural networks on MNIST, achieving 97% test accuracy; applied transfer learning for custom datasets.  
