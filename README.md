@@ -37,17 +37,17 @@ Feel free to reach out to me:
 
 ## 📂 **Featured Projects**
 
-### 1. **[Cloud Infrastructure for Single-Cell RNA Sequencing](https://github.com/yourrepo/xyz)**
+### 1. **Cloud Infrastructure for Single-Cell RNA Sequencing**
    - Built cloud-based infrastructure for processing large datasets from single-cell RNA sequencing experiments.  
-   - Technologies: AWS (EC2, S3, Lambda), Python, Docker.
+   - Technologies: AWS (EC2, S3, Lambda, EFS, ECS, ECR), Python, Docker.
 
-### 2. **[AI-powered Food Delivery App](https://github.com/yourrepo/xyz)**
-   - Developed a smart recommendation system to optimize delivery routes using AI and machine learning algorithms.  
+### 2. **[Food Delivery App](https://github.com/SahilBodke/food-delivery-app.git)**
+   - Designed a secure, interactive food ordering web application with MERN stack.  
    - Technologies: Python, Flask, TensorFlow, React.
 
-### 3. **[Smart Robotics System](https://github.com/yourrepo/xyz)**
-   - Designed an autonomous robot using ROS to perform real-time object detection and navigation.  
-   - Technologies: ROS, OpenCV, Python.
+### 3. **Recognition Using Deep Networks**
+   - Trained deep neural networks on MNIST, achieving 97% test accuracy; applied transfer learning for custom datasets.  
+   - **Technologies**: Python, PyTorch.
 
 ---
 
