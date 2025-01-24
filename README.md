@@ -18,11 +18,44 @@ Here are some ideas to get you started:
 **Welcome to my GitHub portfolio!**
 
 - 🌟 Passionate about cloud computing, automation, and AI/ML.
-- 💻 Experienced in Python, FastAPI, AWS, and Docker.
+- 💻 Experienced in Python, AWS, Cloud Computing, Data Engineering, Software Engineering and Docker.
 - 🚀 I love solving real-world problems through technology.
 
-- 🎓 **Education:** Bachelor's degree in Computer Science
-- 🌱 **Currently Learning:** Advanced JavaScript, React, and Deep Learning
-- 👯 **Looking to Collaborate On:** Open-source projects, innovative web applications, and AI/ML projects
+- 🎓 **Education:** Master of Science in Robotics (concentration - Computer Science)
 - 📫 **How to Reach Me:** [Email](mailto:bodke.s@northeasttern.edu) | [LinkedIn](https://www.linkedin.com/in/sahil-bodke2000/)
+
+## Skills
+
+### Programming Languages
+- Python
+- R
+- C++
+- JavaScript
+- MATLAB
+- Groovy
+- Java
+
+### Frameworks and Libraries
+- React
+- Node.js
+- Express.js
+- TensorFlow
+- PyTorch
+- Keras
+- OpenCV
+- Docker
+- Nextflow
+- Figma
+- Dash
+- Numpy
+- Pandas
+- Robot Operating System (ROS)
+
+### Tools and Technologies
+- Git & GitHub
+- Docker
+- AWS
+- Tableau
+- Linux
+- VS Code
 
