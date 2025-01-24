@@ -18,15 +18,23 @@ Here are some ideas to get you started:
 **Welcome to my GitHub portfolio!**
 
 - 🌟 Passionate about cloud computing, automation, and AI/ML.
-- 💻 Experienced in Python, AWS, Cloud Computing, Data Engineering, Software Engineering and Docker.
+- 💻 Experienced in Python, AWS, Cloud Computing, Data Engineering, and Software Engineering.
 - 🚀 I love solving real-world problems through technology.
 
-- 🎓 **Education:** Master of Science in Robotics (concentration - Computer Science)
-- 📫 **How to Reach Me:** [Email](mailto:bodke.s@northeasttern.edu) | [LinkedIn](https://www.linkedin.com/in/sahil-bodke2000/)
+## 🎓 Education
+- **Master of Science in Robotics** (concentration - Computer Science)  
+  Northeastern University
 
-## Skills
+## 📬 **Get in Touch**  
+Feel free to reach out to me:  
+- 📧 [Email](mailto:bodke.s@northeasttern.edu)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-bodke2000/)
 
-### Programming Languages
+---
+
+## 🚀 **Technologies & Skills**
+
+### 🔧 **Programming Languages**
 - Python
 - R
 - C++
@@ -35,27 +43,38 @@ Here are some ideas to get you started:
 - Groovy
 - Java
 
-### Frameworks and Libraries
-- React
-- Node.js
-- Express.js
-- TensorFlow
-- PyTorch
-- Keras
-- OpenCV
-- Docker
-- Nextflow
-- Figma
-- Dash
-- Numpy
-- Pandas
-- Robot Operating System (ROS)
+### ⚡ **Frameworks & Libraries**
+- **Frontend:** React, Node.js, Express.js
+- **AI/ML:** TensorFlow, PyTorch, Keras
+- **Data Engineering:** Numpy, Pandas, Nextflow
+- **Computer Vision:** OpenCV
+- **Robotics:** Robot Operating System (ROS)
+- **Data Visualization:** Dash, Tableau
+- **Tools:** Docker, Figma
 
-### Tools and Technologies
-- Git & GitHub
-- Docker
-- AWS
-- Tableau
-- Linux
-- VS Code
+### 🛠️ **Tools & Technologies**
+- **Version Control:** Git & GitHub
+- **Cloud:** AWS (S3, EC2, Lambda, etc.)
+- **Development:** Linux, VS Code
+
+---
+
+## 📂 **Featured Projects**
+
+### 1. **[Cloud Infrastructure for Single-Cell RNA Sequencing](https://github.com/yourrepo/xyz)**
+   - Built cloud-based infrastructure for processing large datasets from single-cell RNA sequencing experiments.  
+   - Technologies: AWS (EC2, S3, Lambda), Python, Docker.
+
+### 2. **[AI-powered Food Delivery App](https://github.com/yourrepo/xyz)**
+   - Developed a smart recommendation system to optimize delivery routes using AI and machine learning algorithms.  
+   - Technologies: Python, Flask, TensorFlow, React.
+
+### 3. **[Smart Robotics System](https://github.com/yourrepo/xyz)**
+   - Designed an autonomous robot using ROS to perform real-time object detection and navigation.  
+   - Technologies: ROS, OpenCV, Python.
+
+---
+
+## 🏆 **Achievements**
+- Recipient of **Assistance to Meritorious Students Scholarship – Junior Level** for outstanding academic performance
 
