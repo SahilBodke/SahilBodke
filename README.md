@@ -38,7 +38,7 @@ Feel free to reach out to me:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,cpp,javascript,java,matlab,html,css&titles=true)
 
 ### ⚡ **Frameworks & Libraries**
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,expressjs,tensorflow,pytorch,keras,opencv&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,expressjs,tensorflow,pytorch,opencv&titles=true)
 
 ### 🛠️ **Tools & Technologies**
 ![Cloud](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes&titles=true)
