@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Welcome to my GitHub portfolio!**
 
-- 🌟 Passionate about cloud computing, automation, and AI/ML.
+- 🌟 Passionate about **Cloud Computing**, **Automation**, and **AI/ML**.
 - 💻 Experienced in Python, AWS, Cloud Computing, Data Engineering, and Software Engineering.
 - 🚀 I love solving real-world problems through technology.
 
