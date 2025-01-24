@@ -53,4 +53,6 @@ Feel free to reach out to me:
 
 ## 🏆 **Achievements**
 - Recipient of **Assistance to Meritorious Students Scholarship – Junior Level** for outstanding academic performance
+- **Research Publication**: *[A Fish Robot: It’s Modeling and Pose Estimation]([https://link-to-paper](https://ieeexplore.ieee.org/document/9588699))*, presented at [2021 International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA)], [2021].
+
 
