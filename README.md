@@ -24,15 +24,14 @@ Feel free to reach out to me:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,cpp,javascript,java,matlab,html,css&titles=true)
 
 ### ⚡ **Frameworks & Libraries**
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,expressjs,tensorflow,pytorch,opencv&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,expressjs,tensorflow,pytorch,opencv,numpy,pandas&titles=true)
 
 ### 🛠️ **Tools & Technologies**
 ![Cloud](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes&titles=true)
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,vscode,tableau,figma&titles=true)
 
-### 📊 **Data Engineering & Visualization**
-- **Libraries**: Numpy, Pandas, Nextflow
-- **Visualization Tools**: Tableau, Dash
+### 🗄️ **Databases**
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mongodb,dynamodb,postgresql,mysql&titles=true)
 
 ---
 
