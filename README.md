@@ -34,29 +34,19 @@ Feel free to reach out to me:
 
 ## 🚀 **Technologies & Skills**
 
-### 🔧 **Programming Languages**
+### 💻 **Programming Languages**
 [![My Skills](https://skillicons.dev/icons?i=py,r,cpp,js,java,matlab,html,css)](https://skillicons.dev)
-- Python
-- R
-- C++
-- JavaScript
-- MATLAB
-- Groovy
-- Java
 
 ### ⚡ **Frameworks & Libraries**
-- **Frontend:** React, Node.js, Express.js
-- **AI/ML:** TensorFlow, PyTorch, Keras
-- **Data Engineering:** Numpy, Pandas, Nextflow
-- **Computer Vision:** OpenCV
-- **Robotics:** Robot Operating System (ROS)
-- **Data Visualization:** Dash, Tableau
-- **Tools:** Docker, Figma
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,pytorch,keras,opencv)](https://skillicons.dev)
 
 ### 🛠️ **Tools & Technologies**
-- **Version Control:** Git & GitHub
-- **Cloud:** AWS (S3, EC2, Lambda, etc.)
-- **Development:** Linux, VS Code
+[![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,tableau,figma)](https://skillicons.dev)
+
+### 📊 **Data Engineering & Visualization**
+- **Libraries**: Numpy, Pandas, Nextflow
+- **Visualization Tools**: Tableau, Dash
 
 ---
 
