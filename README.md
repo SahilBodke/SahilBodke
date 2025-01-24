@@ -35,14 +35,15 @@ Feel free to reach out to me:
 ## 🚀 **Technologies & Skills**
 
 ### 💻 **Programming Languages**
-[![My Skills](https://skillicons.dev/icons?i=py,r,cpp,js,java,matlab,html,css)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,cpp,javascript,java,matlab,html,css&titles=true)
 
 ### ⚡ **Frameworks & Libraries**
-[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,pytorch,keras,opencv)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,expressjs,tensorflow,pytorch,keras,opencv&titles=true)
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,pytorch,opencv)](https://skillicons.dev)
 
 ### 🛠️ **Tools & Technologies**
-[![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,vscode,tableau,figma&titles=true)
+![Cloud](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes&titles=true)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,vscode,tableau,figma&titles=true)
 
 ### 📊 **Data Engineering & Visualization**
 - **Libraries**: Numpy, Pandas, Nextflow
