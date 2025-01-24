@@ -14,7 +14,7 @@
 Feel free to reach out to me:  
 - 📧 [Email](mailto:bodke.s@northeasttern.edu)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-bodke2000/)
-- - 📄 [Resume]([https://your-resume-link.com](https://github.com/SahilBodke/SahilBodke/blob/main/Sahil_Bodke_Resume.pdf))
+- 📄 [Resume]([https://your-resume-link.com](https://github.com/SahilBodke/SahilBodke/blob/main/Sahil_Bodke_Resume.pdf))
 
 ---
 
