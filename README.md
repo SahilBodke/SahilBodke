@@ -35,7 +35,7 @@ Feel free to reach out to me:
 ## 🚀 **Technologies & Skills**
 
 ### 🔧 **Programming Languages**
-[![My Skills](https://skillicons.dev/icons?i=py,r,cpp,js,java,matlab,groovy,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,cpp,js,java,matlab,html,css)](https://skillicons.dev)
 - Python
 - R
 - C++
