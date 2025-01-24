@@ -42,7 +42,7 @@ Feel free to reach out to me:
 
 ### 🛠️ **Tools & Technologies**
 [![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,tableau,figma)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,vscode,tableau,figma&titles=true)
 
 ### 📊 **Data Engineering & Visualization**
 - **Libraries**: Numpy, Pandas, Nextflow
