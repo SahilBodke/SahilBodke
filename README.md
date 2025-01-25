@@ -10,12 +10,6 @@
 - **Master of Science in Robotics** (concentration - Computer Science)  
   Northeastern University
 
-## 📬 **Get in Touch**  
-Feel free to reach out to me:  
-- 📧 [Email](mailto:bodke.s@northeasttern.edu)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-bodke2000/)
-- 📄 [Resume](https://github.com/SahilBodke/SahilBodke/blob/main/Sahil_Bodke_Resume.pdf)
-
 ---
 
 ## 🚀 **Technologies & Skills**
@@ -54,5 +48,13 @@ Feel free to reach out to me:
 ## 🏆 **Achievements**
 - Recipient of **Assistance to Meritorious Students Scholarship – Junior Level** for outstanding academic performance
 - **Research Publication**: *[A Fish Robot: It’s Modeling and Pose Estimation](https://ieeexplore.ieee.org/document/9588699)*, presented at [2021 International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA)], [2021].
+
+---
+
+## 📬 **Get in Touch**  
+Feel free to reach out to me:  
+- 📧 [Email](mailto:bodke.s@northeasttern.edu)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-bodke2000/)
+- 📄 [Resume](https://github.com/SahilBodke/SahilBodke/blob/main/Sahil_Bodke_Resume.pdf)
 
 
