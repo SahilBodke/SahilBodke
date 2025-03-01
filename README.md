@@ -4,7 +4,7 @@
 
 - 🌟 Passionate about **Cloud Computing**, **Automation**, **Software Engineering**, and **AI/ML**.
 - 💻 Experienced in Python, AWS, Cloud Computing, Data Engineering, and Software Engineering.
-- 🚀 I love solving real-world problems through technology.
+- 🚀 As a Harry Potter fan, I love using technology to solve real-world problems — it feels like modern-day wizardry to me.
 
 ## 🎓 Education
 - **Master of Science in Robotics** (concentration - Computer Science)  
